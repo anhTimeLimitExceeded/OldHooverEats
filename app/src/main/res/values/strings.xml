@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project 1.0</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string-array name="years">
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Not Applicable</item>
+    </string-array>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_requests">requests</string>
+    <string name="requests">Requests</string>
+    <string name="title_messages">Messages</string>
+    <string name="type_your_message">Type your message</string>
+</resources>
